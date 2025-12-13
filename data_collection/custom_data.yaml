@@ -1,0 +1,6 @@
+
+path: /workspaces/MultimodalInteraction_ObjDet/data_collection/dataset
+train: images/train
+val: images/val
+names:
+  0: my_cat
